@@ -1,0 +1,43 @@
+# argparse
+# cv2
+# h5py
+# importlib
+# keras
+# matplotlib
+# mediapipe
+# numpy
+# openpose
+# pandas
+# pickle
+# setuptools
+# shutil
+# scikit-learn    
+# skvideo
+# tensorflow
+# torch
+# torchlight
+# torchvision
+# traceback
+# utils
+# warnings
+# yaml
+
+
+argparse
+h5py
+keras
+matplotlib
+mediapipe
+numpy
+opencv-python
+pandas
+scikit-learn
+scikit-video
+tensorflow
+torch
+torchvision
+torchlight       # if it's a valid custom package or local module
+pyyaml
+transformers
+tf-keras
+
