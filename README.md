@@ -22,22 +22,7 @@ This project implements a full pipeline for translating sign language videos int
    pip install -r requirements.txt
    ```
 
-2. **Install Node.js dependencies:**
-   ```bash
-   cd Digital_Twin
-   npm install
-   ```
-
-3. **Add your D-ID API key:**
-   - Open `Digital_Twin/server.js`
-   - Replace the existing API key string with your own.
-
-4. **Run the backend server:**
-   ```bash
-   node server.js
-   ```
-
-5. **Run notebooks based on your use case:**
+2. **Run notebooks based on your use case: Use Option 1 in our case**
 
 ### ➤ Option 1: Use the provided pre-trained model
 - Skip training steps.
